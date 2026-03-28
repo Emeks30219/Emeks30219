@@ -26,11 +26,6 @@ I'm working towards becoming a Backend  developer, with a focus on building tool
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emeks30219&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emeks30219&layout=compact&hide_border=true)
 
 ---
 
