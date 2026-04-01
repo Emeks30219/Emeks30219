@@ -12,11 +12,12 @@ I'm a Computer Science student at **Bingham University**, currently in my first 
 
 ---
 
-## 🚀 Projects I've built
+## 🚀 Some Projects I've built
 
 - 🌍 **Nigerian Language Translator** — translates English words into Yoruba, Igbo, Hausa, Idoma & Mwaghavul using Python and Streamlit
 - 💻 **Computer Science Quiz** — a Python command-line quiz game testing CS acronym knowledge
 - ⚛️ **Physics Formula Calculator** — calculates 5 core physics formulas from user input (momentum, KE, PE, Ohm's Law, Work Done)
+- 🏃🏿‍♂️ **Adventure game**- A simple decision game on how to survive
 
 ---
 
