@@ -9,6 +9,8 @@ I'm a Computer Science student at **Bingham University**, currently in my first 
 - 🐍 Python (my main language right now)
 - 🌐 Streamlit (for building web apps)
 - 🗂️ Git & GitHub (version control)
+- 👀 Open-cv eye masker
+- 🌐 Crud web app(Using flask and mySQL)
 
 ---
 
