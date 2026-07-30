@@ -9,9 +9,6 @@ I'm a Computer Science student at **Bingham University**, currently in my first 
 - 🐍 Python (my main language right now)
 - 🌐 Streamlit (for building web apps)
 - 🗂️ Git & GitHub (version control)
-- 👀 Open-cv eye masker
-- 🌐 Crud web app(Using flask and mySQL)
-
 ---
 
 ## 🚀 Some Projects I've built
@@ -20,7 +17,8 @@ I'm a Computer Science student at **Bingham University**, currently in my first 
 - 💻 **Computer Science Quiz** — a Python command-line quiz game testing CS acronym knowledge
 - ⚛️ **Physics Formula Calculator** — calculates 5 core physics formulas from user input (momentum, KE, PE, Ohm's Law, Work Done)
 - 🏃🏿‍♂️ **Adventure game**- A simple decision game on how to survive
-
+- 👀 Open-cv eye masker
+- 🌐 Crud web app(Using flask and mySQL)
 ---
 
 ## 🎯 My goal
